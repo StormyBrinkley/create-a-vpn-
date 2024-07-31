@@ -10,7 +10,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [Creating A VPN Using Azure and ProtonVPN: Windows](https://youtu.be/A-DTNcSS3-M?si=T90ga6GNGlIcQh9s)
+- ### [Creating A VPN Using Azure and ProtonVPN: Windows - Video ](https://youtu.be/A-DTNcSS3-M?si=T90ga6GNGlIcQh9s)
 In this comprehensive video tutorial (featuring instrumental music and no audio commentary), I will guide you through the entire process of creating two virtual machines in Microsoft Azure. We will set up one virtual machine with a Windows operating system and another with a Linux operating system. This tutorial will cover all the necessary steps and configurations to ensure both virtual machines are up and running smoothly.
 <br/>
 <h2>Environments and Technologies Used</h2>
