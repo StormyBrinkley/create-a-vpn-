@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/VoDHJKz.png" alt="Azure and ProtonVPN"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<h1Creating A VPN Using Azure and ProtonVPN: Windows</h1>
 In this tutorial, I'll link a virtual machine (VM) to the Internet via a VPN, enabling someone to connect to resources outside of their geographic area or send encapsulated and encrypted data. <br />
 
 
