@@ -5,13 +5,13 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, I'll link a virtual machine (VM) to the Internet via a VPN, enabling someone to connect to resources outside of their geographic area or send encapsulated and encrypted data. <br />
 
 
 <h2>Video Demonstration</h2>
 
 - ### [Creating A VPN Using Azure and ProtonVPN: Windows - Video ](https://youtu.be/A-DTNcSS3-M?si=T90ga6GNGlIcQh9s)
-In this comprehensive video tutorial (featuring instrumental music and no audio commentary), I will guide you through the entire process of creating two virtual machines in Microsoft Azure. We will set up one virtual machine with a Windows operating system and another with a Linux operating system. This tutorial will cover all the necessary steps and configurations to ensure both virtual machines are up and running smoothly.
+In this comprehensive video tutorial, I will guide you through the entire process of creating a VPN using Microsoft Azure and ProtonVPN. I will set up one virtual machine with a Windows operating system, connect it to a network in Tokyo, Japan and then connect it to a VPN in Dallas, Texas. 
 <br/>
 <h2>Environments and Technologies Used</h2>
 
